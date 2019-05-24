@@ -1,0 +1,27 @@
+.HeaderTop {
+    display: flex;
+    flex-direction: row;
+    width: 980px;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.BasketData {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.SearchInput {
+    width: 100%;
+    margin: 0 165px;
+}
+
+.SearchInput input {
+    width: 100%;
+}
+
+.Basket {
+    margin-right: 17px;
+}

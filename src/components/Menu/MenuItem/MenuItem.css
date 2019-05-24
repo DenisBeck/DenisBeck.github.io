@@ -1,0 +1,33 @@
+li {
+    padding: 0;
+    margin: 0;
+}
+
+.MenuItem {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.TopMenu {
+    padding: 0 11px;
+    border-right:  3px solid #ffffff;
+    margin: 10px 0;
+}
+
+.TopMenu:first-child {
+    padding-left: 0;
+}
+
+.TopMenu:last-child {
+    border-right:  0;
+    padding-right: 0;
+}
+
+.MenuItemLink {
+    text-decoration: none;
+    color: #ffffff;
+    font-family: "Bebas Neue";
+    font-size: 15px;
+    font-weight: bold;
+}

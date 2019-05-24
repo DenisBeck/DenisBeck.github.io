@@ -1,0 +1,18 @@
+.Header {
+    padding: 10px;
+    background-color: #3cc2b0;
+}
+
+.HeaderText {
+    color: #ffffff;
+    width: 980px;
+    margin: 0 auto;
+}
+
+.MainProducts {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 980px;
+    margin: 0 auto;
+}

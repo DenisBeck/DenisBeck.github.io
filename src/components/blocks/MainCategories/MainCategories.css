@@ -1,0 +1,6 @@
+.MainCategories {
+    display: flex;
+    flex-direction: row;
+    width: 980px;
+    margin: 0 auto;
+}

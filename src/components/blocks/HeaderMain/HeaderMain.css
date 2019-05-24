@@ -1,0 +1,55 @@
+.HeaderMain {
+    background-color: #3cc3b5;
+}
+.SliderContainer {
+    width: 980px;
+    margin: 0 auto;
+    position: relative;
+}
+.SliderItem {
+    display: none;
+    opacity: 0;
+    flex-direction: row;
+    width: 100%;
+    color: #ffffff;
+    padding: 60px;
+    transition: opacity 1s;
+}
+.SliderItem.Active {
+    display: flex;
+    opacity: 1;
+}
+.SliderImage {
+    margin-right: 70px;
+}
+.SliderDescription {
+    display: flex;
+    flex-direction: column;
+}
+.SliderHeader {
+    text-transform: uppercase;
+    font-size: 61px;
+    margin: 0;
+}
+.SliderText {
+    line-height: 28px;
+    font-size: 17px;
+    font-weight: bold;
+}
+.SliderNavigation {
+    list-style: none;
+    position: absolute;
+    bottom: 25px;
+    right: 50%;
+}
+.SliderNavigationItem {
+    display: inline-block;
+    border-radius: 50%;
+    padding: 5px;
+    background-color: #fff;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.SliderNavigationItem.Active {
+    background-color: #2da89b;
+}

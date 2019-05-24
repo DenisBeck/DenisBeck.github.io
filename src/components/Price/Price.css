@@ -1,0 +1,11 @@
+.PriceContainer {
+    color: #afafaf;
+    font-size: 18px;
+    font-weight: bold;
+    display: inline;
+    margin-right: 15px;
+}
+.PriceContainer p {
+    margin: 0;
+    display: inline;
+}
