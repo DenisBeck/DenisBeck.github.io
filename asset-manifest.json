@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.366782de.chunk.css",
+    "main.js": "/static/js/main.3d32177a.chunk.js",
+    "main.js.map": "/static/js/main.3d32177a.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.782a19fb.chunk.js": "/static/js/2.782a19fb.chunk.js",
+    "static/js/2.782a19fb.chunk.js.map": "/static/js/2.782a19fb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6355687b8452553fb203710611f9312c.js": "/precache-manifest.6355687b8452553fb203710611f9312c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.366782de.chunk.css.map": "/static/css/main.366782de.chunk.css.map",
+    "static/media/Layer_1.png": "/static/media/Layer_1.53fbfe35.png",
+    "static/media/beautiful-place.jpg": "/static/media/beautiful-place.5cadf01c.jpg"
+  }
+}
